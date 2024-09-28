@@ -1,0 +1,22 @@
+
+body{
+    background-color: #F5F4F0;
+    width: 1120px;
+    margin: 80px auto;
+}   
+
+header{
+    border-bottom: solid #D9D9D9 1px;
+}
+h4{
+    size: 16px;
+    color: #E1624F;
+}
+header img{
+    border-radius: 28px;
+    height: 660px;
+}
+header p{
+    text-align: center;
+    font-style: italic;
+}
