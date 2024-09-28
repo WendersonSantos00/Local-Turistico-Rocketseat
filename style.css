@@ -9,6 +9,7 @@ body{
     margin: 80px auto;
 }   
 
+/*style header*/
 header{
     border-bottom: solid #D9D9D9 1px;
 }
@@ -36,6 +37,7 @@ header p{
     margin-bottom: 40px;
 }
 
+/*style header-main*/
 #header-main h4{
     margin-top: 64px;
 }
@@ -49,6 +51,7 @@ header p{
     margin-bottom: 64px;
 }
 
+/*style sections*/
 main section img{
     height: 350px;
     border-radius: 28px;
@@ -72,4 +75,20 @@ main section strong{
 main section ul{
     margin-top: 4px;
     margin-bottom: 48px;
+}
+
+/* Style lists*/
+
+ul{
+    color: #0C51A7;
+}
+
+#color-1{
+    color: #591B98;
+}
+#color-2{
+   color: #E5245E;
+}
+#color-3{
+   color: #E95E10;
 }
