@@ -35,3 +35,16 @@ header p{
     font-style: italic;
     margin-bottom: 40px;
 }
+
+#header-main h4{
+    margin-top: 64px;
+}
+
+#header-main h2{
+    margin-top: 2px;
+}
+
+#header-main p{
+    margin-top: 8px;
+    margin-bottom: 64px;
+}
