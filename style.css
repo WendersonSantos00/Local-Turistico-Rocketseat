@@ -48,3 +48,28 @@ header p{
     margin-top: 8px;
     margin-bottom: 64px;
 }
+
+main section img{
+    height: 350px;
+    border-radius: 28px;
+    object-fit: cover;
+}
+main section h3{
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+main section p{
+    margin-top: 4px;
+}
+main section strong{
+    margin-top: 50px
+}
+
+.title-list{
+    margin-top: 50px;
+    margin-bottom: 4px;
+}
+main section ul{
+    margin-top: 4px;
+    margin-bottom: 48px;
+}
